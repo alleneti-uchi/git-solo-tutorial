@@ -1,2 +1,1 @@
-Git Solo Tutorial
-Allen Eti
+Testing Git functions
